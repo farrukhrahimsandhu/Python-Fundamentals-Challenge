@@ -1,0 +1,30 @@
+{
+    "8585": {
+        "name": "Farrukh Rahim",
+        "balance": 1954230,
+        "history": []
+    },
+    "6094": {
+        "name": "Boss",
+        "balance": 26736832,
+        "history": []
+    },
+    "1234": {
+        "name": "Sandhu Saab",
+        "balance": 6140084,
+        "history": [
+            {
+                "type": "Deposit",
+                "amount": 5543,
+                "balance": 6145084,
+                "date": "2025-11-02 15:30:22"
+            },
+            {
+                "type": "Withdrawal",
+                "amount": 5000,
+                "balance": 6140084,
+                "date": "2025-11-02 15:30:31"
+            }
+        ]
+    }
+}

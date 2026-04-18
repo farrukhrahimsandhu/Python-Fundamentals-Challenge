@@ -1,0 +1,2 @@
+Farrukh is appending this text to the text file named 'append_text_34'.
+so remember it.

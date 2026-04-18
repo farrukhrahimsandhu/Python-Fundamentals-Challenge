@@ -1,0 +1,2 @@
+I am writing this to find any word from this text file by using python code.
+Currently i am writing code of file handling in python.
