@@ -22,3 +22,8 @@ Among the 50 programs, I built several mini-projects to test my real-world logic
 
 ## 👨‍💻 About Me
 I am a Computer Science undergrad passionate about Data Science and Machine Learning. Building these 50 programs has sharpened my logic and prepared me for working with complex datasets and ML models.
+
+### 📫 Let's Connect
+* **LinkedIn:** [Farrukh Rahim](https://www.linkedin.com/in/farrukh-rahim-b234b928b)
+* **Email:** farrukhrahim814@gmail.com
+
