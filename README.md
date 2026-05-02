@@ -5,6 +5,10 @@ Welcome to my Python Fundamentals repository! I completed this 50-program challe
 ## 🎯 Objective
 To master core Python programming concepts, logic building, and problem-solving as a stepping stone toward Machine Learning and Data Science.
 
+## 📂 Repository Structure
+* **`Challenge-Code-Files/`**: Contains the core logic-building scripts and foundational syntax practice.
+* **`4-Fundamental-Projects/`**: Contains the polished, standalone CLI applications (like the ATM and Contact Book).
+
 ## 🛠️ Concepts & Technologies Covered
 * **Basic Logic & Math:** Factorials, Fibonacci series, number conversions (Binary/Octal/Hex), and Armstrong numbers.
 * **Data Structures:** Advanced list manipulation, dictionary sorting, and set operations.
@@ -26,4 +30,3 @@ I am a Computer Science undergrad passionate about Data Science and Machine Lear
 ### 📫 Let's Connect
 * **LinkedIn:** [Farrukh Rahim](https://www.linkedin.com/in/farrukh-rahim-b234b928b)
 * **Email:** farrukhrahim814@gmail.com
-
